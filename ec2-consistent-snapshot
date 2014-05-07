@@ -4,17 +4,12 @@
 #
 use strict;
 use warnings;
+use File::Basename;
+use lib dirname($0) . "/perl5/lib/perl5";
 (our $Prog) = ($0 =~ m%([^/]+)$%);
+use POSIX ':signal_h';
 use Getopt::Long;
 use Pod::Usage;
-use File::Slurp;
-use IO::Socket::SSL;
-eval 'use Mozilla::CA';
-use Time::HiRes qw(ualarm usleep);
-use Net::Amazon::EC2 0.11;
-use POSIX ':signal_h';
-use DateTime::Locale;
-use DateTime::TimeZone;
 
 my $SIGALRM = 14;
 
