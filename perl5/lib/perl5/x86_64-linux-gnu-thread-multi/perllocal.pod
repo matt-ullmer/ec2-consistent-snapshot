@@ -1912,3 +1912,69 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Fri May  9 18:10:23 2014: C<Module> L<IO::Socket::SSL|IO::Socket::SSL>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.983>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 18:10:26 2014: C<Module> L<LWP::Protocol::https|LWP::Protocol::https>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 18:10:30 2014: C<Module> L<Net::Amazon::EC2|Net::Amazon::EC2>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
