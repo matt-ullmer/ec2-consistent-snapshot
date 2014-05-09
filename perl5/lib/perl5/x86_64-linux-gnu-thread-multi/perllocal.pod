@@ -1,10 +1,32 @@
-=head2 Wed May  7 10:59:47 2014: C<Module> L<local::lib|local::lib>
+=head2 Fri May  9 16:38:26 2014: C<Module> L<ExtUtils::MakeMaker|ExtUtils::MakeMaker>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.98>
+
+=item *
+
+C<EXE_FILES: bin/instmodsh>
+
+=back
+
+=head2 Fri May  9 16:39:58 2014: C<Module> L<local::lib|local::lib>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -20,13 +42,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 10:59:59 2014: C<Module> L<Sub::Uplevel|Sub::Uplevel>
+=head2 Fri May  9 16:40:57 2014: C<Module> L<local::lib|local::lib>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -34,7 +56,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 0.24>
+C<VERSION: 2.000011>
 
 =item *
 
@@ -42,13 +64,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:00:20 2014: C<Module> L<XML::Simple|XML::Simple>
+=head2 Fri May  9 16:41:45 2014: C<Module> L<YAML|YAML>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -56,7 +78,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 2.20>
+C<VERSION: 0.90>
 
 =item *
 
@@ -64,13 +86,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:00:51 2014: C<Module> L<Try::Tiny|Try::Tiny>
+=head2 Fri May  9 16:42:14 2014: C<Module> L<Test::Harness|Test::Harness>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -78,7 +100,29 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 0.22>
+C<VERSION: 3.30>
+
+=item *
+
+C<EXE_FILES: bin/prove>
+
+=back
+
+=head2 Fri May  9 16:42:17 2014: C<Module> L<ExtUtils::CBuilder|ExtUtils::CBuilder>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.280216>
 
 =item *
 
@@ -86,13 +130,35 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:00:56 2014: C<Module> L<Test::Simple|Test::Simple>
+=head2 Fri May  9 16:42:32 2014: C<Module> L<File::Temp|File::Temp>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.2304>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:42:40 2014: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -108,13 +174,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:00:57 2014: C<Module> L<Test::Fatal|Test::Fatal>
+=head2 Fri May  9 16:42:44 2014: C<Module> L<Data::Dumper|Data::Dumper>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -122,7 +188,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 0.013>
+C<VERSION: 2.151>
 
 =item *
 
@@ -130,13 +196,211 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:01:00 2014: C<Module> L<Params::Util|Params::Util>
+=head2 Fri May  9 16:42:59 2014: C<Module> L<Archive::Tar|Archive::Tar>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.96>
+
+=item *
+
+C<EXE_FILES: bin/ptar bin/ptardiff bin/ptargrep>
+
+=back
+
+=head2 Fri May  9 16:44:04 2014: C<Module> L<Cwd|Cwd>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.40>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:44:08 2014: C<Module> L<Digest::SHA|Digest::SHA>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.90>
+
+=item *
+
+C<EXE_FILES: shasum>
+
+=back
+
+=head2 Fri May  9 16:44:14 2014: C<Module> L<Archive::Zip|Archive::Zip>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.37>
+
+=item *
+
+C<EXE_FILES: script/crc32>
+
+=back
+
+=head2 Fri May  9 16:44:20 2014: C<Module> L<Net|Net>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:44:23 2014: C<Module> L<Term::ReadKey|Term::ReadKey>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:44:26 2014: C<Module> L<Term::ReadLine|Term::ReadLine>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0303>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:44:34 2014: C<Module> L<Probe::Perl|Probe::Perl>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:44:37 2014: C<Module> L<IPC::Run3|IPC::Run3>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.048>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:44:38 2014: C<Module> L<Test::Script|Test::Script>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -152,13 +416,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:01:02 2014: C<Module> L<Sub::Install|Sub::Install>
+=head2 Fri May  9 16:44:40 2014: C<Module> L<File::Which|File::Which>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -166,87 +430,21 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 0.927>
+C<VERSION: 1.09>
 
 =item *
 
-C<EXE_FILES: >
+C<EXE_FILES: script/pwhich>
 
 =back
 
-=head2 Wed May  7 11:01:03 2014: C<Module> L<Package::DeprecationManager|Package::DeprecationManager>
+=head2 Fri May  9 16:44:42 2014: C<Module> L<CPAN::Meta::Requirements|CPAN::Meta::Requirements>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.13>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:01:57 2014: C<Module> L<CPAN::Meta::YAML|CPAN::Meta::YAML>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.012>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:01:58 2014: C<Module> L<Parse::CPAN::Meta|Parse::CPAN::Meta>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.4414>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:01:59 2014: C<Module> L<CPAN::Meta::Requirements|CPAN::Meta::Requirements>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -262,13 +460,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:02:02 2014: C<Module> L<CPAN::Meta|CPAN::Meta>
+=head2 Fri May  9 16:45:24 2014: C<Module> L<CPAN|CPAN>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -276,7 +474,29 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 2.141170>
+C<VERSION: 2.05>
+
+=item *
+
+C<EXE_FILES: scripts/cpan scripts/cpan-mirrors>
+
+=back
+
+=head2 Fri May  9 16:45:28 2014: C<Module> L<CPAN::Meta::YAML|CPAN::Meta::YAML>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.012>
 
 =item *
 
@@ -284,13 +504,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:02:12 2014: C<Module> L<Test::Tester|Test::Tester>
+=head2 Fri May  9 16:45:29 2014: C<Module> L<Parse::CPAN::Meta|Parse::CPAN::Meta>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -298,7 +518,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 0.109>
+C<VERSION: 1.4414>
 
 =item *
 
@@ -306,519 +526,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:02:13 2014: C<Module> L<Test::NoWarnings|Test::NoWarnings>
+=head2 Fri May  9 16:45:30 2014: C<Module> L<File::HomeDir|File::HomeDir>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.04>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:15 2014: C<Module> L<Test::Deep|Test::Deep>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.112>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:15 2014: C<Module> L<CPAN::Meta::Check|CPAN::Meta::Check>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.008>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:18 2014: C<Module> L<Package::Stash::XS|Package::Stash::XS>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.28>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:21 2014: C<Module> L<Data::OptList|Data::OptList>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.109>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:22 2014: C<Module> L<Sub::Exporter|Sub::Exporter>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.987>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:26 2014: C<Module> L<MRO::Compat|MRO::Compat>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.12>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:27 2014: C<Module> L<Task::Weaken|Task::Weaken>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.04>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:32 2014: C<Module> L<List::MoreUtils|List::MoreUtils>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.33>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:34 2014: C<Module> L<Module::Implementation|Module::Implementation>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.07>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:37 2014: C<Module> L<parent|parent>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.228>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:39 2014: C<Module> L<Devel::StackTrace|Devel::StackTrace>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.32>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:40 2014: C<Module> L<Eval::Closure|Eval::Closure>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.11>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:48 2014: C<Module> L<Dist::CheckConflicts|Dist::CheckConflicts>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.11>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:50 2014: C<Module> L<Package::Stash|Package::Stash>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.36>
-
-=item *
-
-C<EXE_FILES: bin/package-stash-conflicts>
-
-=back
-
-=head2 Wed May  7 11:02:52 2014: C<Module> L<Sub::Name|Sub::Name>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.05>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:02:53 2014: C<Module> L<Carp|Carp>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.3301>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:03:21 2014: C<Module> L<Devel::GlobalDestruction::XS|Devel::GlobalDestruction::XS>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.01>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:03:22 2014: C<Module> L<Sub::Exporter::Progressive|Sub::Exporter::Progressive>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.001011>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:03:23 2014: C<Module> L<Devel::GlobalDestruction|Devel::GlobalDestruction>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.12>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:03:54 2014: C<Module> L<File::Slurp|File::Slurp>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 9999.19>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:04:39 2014: C<Module> L<LWP::MediaTypes|LWP::MediaTypes>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 6.02>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:04:40 2014: C<Module> L<Encode::Locale|Encode::Locale>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.03>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:04:51 2014: C<Module> L<IO::HTML|IO::HTML>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -834,35 +548,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:04:52 2014: C<Module> L<HTTP::Date|HTTP::Date>
+=head2 Fri May  9 16:45:37 2014: C<Module> L<Compress::Raw::Zlib|Compress::Raw::Zlib>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 6.02>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Wed May  7 11:05:01 2014: C<Module> L<Compress::Raw::Zlib|Compress::Raw::Zlib>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -878,13 +570,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:05:05 2014: C<Module> L<Compress::Raw::Bzip2|Compress::Raw::Bzip2>
+=head2 Fri May  9 16:45:42 2014: C<Module> L<Compress::Raw::Bzip2|Compress::Raw::Bzip2>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -900,13 +592,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:06:07 2014: C<Module> L<IO::Compress|IO::Compress>
+=head2 Fri May  9 16:46:50 2014: C<Module> L<IO::Compress|IO::Compress>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -922,13 +614,13 @@ C<EXE_FILES: bin/zipdetails>
 
 =back
 
-=head2 Wed May  7 11:06:08 2014: C<Module> L<HTTP::Message|HTTP::Message>
+=head2 Fri May  9 16:46:57 2014: C<Module> L<Try::Tiny|Try::Tiny>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -936,7 +628,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 6.06>
+C<VERSION: 0.22>
 
 =item *
 
@@ -944,13 +636,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:06:09 2014: C<Module> L<HTTP::Negotiate|HTTP::Negotiate>
+=head2 Fri May  9 16:46:58 2014: C<Module> L<Test::Fatal|Test::Fatal>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -958,7 +650,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 6.01>
+C<VERSION: 0.013>
 
 =item *
 
@@ -966,13 +658,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:06:13 2014: C<Module> L<File::Listing|File::Listing>
+=head2 Fri May  9 16:47:02 2014: C<Module> L<Dist::CheckConflicts|Dist::CheckConflicts>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -980,7 +672,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 6.04>
+C<VERSION: 0.11>
 
 =item *
 
@@ -988,13 +680,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:06:14 2014: C<Module> L<Data::Dump|Data::Dump>
+=head2 Fri May  9 16:47:10 2014: C<Module> L<CPAN::Meta|CPAN::Meta>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -1002,7 +694,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 1.22>
+C<VERSION: 2.141170>
 
 =item *
 
@@ -1010,13 +702,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:06:19 2014: C<Module> L<HTTP::Daemon|HTTP::Daemon>
+=head2 Fri May  9 16:47:14 2014: C<Module> L<Test::Tester|Test::Tester>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -1024,7 +716,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 6.01>
+C<VERSION: 0.109>
 
 =item *
 
@@ -1032,13 +724,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:06:20 2014: C<Module> L<Net::HTTP|Net::HTTP>
+=head2 Fri May  9 16:47:15 2014: C<Module> L<Test::NoWarnings|Test::NoWarnings>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -1046,7 +738,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 6.06>
+C<VERSION: 1.04>
 
 =item *
 
@@ -1054,13 +746,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:06:21 2014: C<Module> L<HTTP::Cookies|HTTP::Cookies>
+=head2 Fri May  9 16:47:18 2014: C<Module> L<Test::Deep|Test::Deep>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -1068,7 +760,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 6.01>
+C<VERSION: 0.112>
 
 =item *
 
@@ -1076,13 +768,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:06:27 2014: C<Module> L<WWW::RobotRules|WWW::RobotRules>
+=head2 Fri May  9 16:47:19 2014: C<Module> L<CPAN::Meta::Check|CPAN::Meta::Check>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -1090,7 +782,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 6.02>
+C<VERSION: 0.008>
 
 =item *
 
@@ -1098,13 +790,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:06:41 2014: C<Module> L<LWP|LWP>
+=head2 Fri May  9 16:47:25 2014: C<Module> L<Params::Util|Params::Util>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -1112,29 +804,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 6.06>
-
-=item *
-
-C<EXE_FILES: bin/lwp-request bin/lwp-mirror bin/lwp-download bin/lwp-dump>
-
-=back
-
-=head2 Wed May  7 11:06:42 2014: C<Module> L<Digest::HMAC|Digest::HMAC>
-
-=over 4
-
-=item *
-
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.03>
+C<VERSION: 1.07>
 
 =item *
 
@@ -1142,13 +812,475 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:08:06 2014: C<Module> L<Capture::Tiny|Capture::Tiny>
+=head2 Fri May  9 16:47:27 2014: C<Module> L<Sub::Install|Sub::Install>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.927>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:47:28 2014: C<Module> L<Data::OptList|Data::OptList>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.109>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:47:30 2014: C<Module> L<Sub::Exporter|Sub::Exporter>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.987>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:47:35 2014: C<Module> L<List::MoreUtils|List::MoreUtils>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:47:42 2014: C<Module> L<Module::Implementation|Module::Implementation>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:47:45 2014: C<Module> L<ExtUtils::Config|ExtUtils::Config>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.007>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:47:47 2014: C<Module> L<ExtUtils::Helpers|ExtUtils::Helpers>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.022>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:47:49 2014: C<Module> L<ExtUtils::InstallPaths|ExtUtils::InstallPaths>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:47:57 2014: C<Module> L<Package::Stash::XS|Package::Stash::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:47:59 2014: C<Module> L<Package::Stash|Package::Stash>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.36>
+
+=item *
+
+C<EXE_FILES: bin/package-stash-conflicts>
+
+=back
+
+=head2 Fri May  9 16:48:03 2014: C<Module> L<Class::Load::XS|Class::Load::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:48:05 2014: C<Module> L<Eval::Closure|Eval::Closure>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:48:08 2014: C<Module> L<Devel::StackTrace|Devel::StackTrace>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.32>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:48:11 2014: C<Module> L<Sub::Name|Sub::Name>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:48:14 2014: C<Module> L<Sub::Exporter::Progressive|Sub::Exporter::Progressive>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.001011>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:48:16 2014: C<Module> L<Devel::GlobalDestruction|Devel::GlobalDestruction>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:48:18 2014: C<Module> L<Package::DeprecationManager|Package::DeprecationManager>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:48:21 2014: C<Module> L<MRO::Compat|MRO::Compat>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:48:23 2014: C<Module> L<Task::Weaken|Task::Weaken>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:48:25 2014: C<Module> L<Carp|Carp>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.3301>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:50:31 2014: C<Module> L<Moose|Moose>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.1205>
+
+=item *
+
+C<EXE_FILES: bin/moose-outdated>
+
+=back
+
+=head2 Fri May  9 16:50:39 2014: C<Module> L<Sub::Uplevel|Sub::Uplevel>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -1164,13 +1296,145 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:08:08 2014: C<Module> L<Test::Output|Test::Output>
+=head2 Fri May  9 16:50:45 2014: C<Module> L<URI|URI>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.60>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:50:53 2014: C<Module> L<XML::SAX::Base|XML::SAX::Base>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:50:55 2014: C<Module> L<XML::NamespaceSupport|XML::NamespaceSupport>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:50:58 2014: C<Module> L<XML::SAX|XML::SAX>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.99>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:06 2014: C<Module> L<IO::HTML|IO::HTML>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:08 2014: C<Module> L<LWP::MediaTypes|LWP::MediaTypes>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:09 2014: C<Module> L<Encode::Locale|Encode::Locale>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -1186,13 +1450,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:08:59 2014: C<Module> L<Net::SSLeay|Net::SSLeay>
+=head2 Fri May  9 16:51:11 2014: C<Module> L<HTTP::Date|HTTP::Date>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -1200,7 +1464,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 1.58>
+C<VERSION: 6.02>
 
 =item *
 
@@ -1208,13 +1472,255 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:09:00 2014: C<Module> L<Mozilla::CA|Mozilla::CA>
+=head2 Fri May  9 16:51:13 2014: C<Module> L<HTTP::Message|HTTP::Message>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:20 2014: C<Module> L<File::Listing|File::Listing>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:22 2014: C<Module> L<Data::Dump|Data::Dump>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:28 2014: C<Module> L<HTTP::Daemon|HTTP::Daemon>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:31 2014: C<Module> L<HTML::Tagset|HTML::Tagset>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:36 2014: C<Module> L<HTML::Parser|HTML::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.71>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:38 2014: C<Module> L<HTTP::Cookies|HTTP::Cookies>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:45 2014: C<Module> L<WWW::RobotRules|WWW::RobotRules>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:47 2014: C<Module> L<HTTP::Negotiate|HTTP::Negotiate>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:51:49 2014: C<Module> L<Net::HTTP|Net::HTTP>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:52:04 2014: C<Module> L<LWP|LWP>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.06>
+
+=item *
+
+C<EXE_FILES: bin/lwp-request bin/lwp-mirror bin/lwp-download bin/lwp-dump>
+
+=back
+
+=head2 Fri May  9 16:53:02 2014: C<Module> L<Mozilla::CA|Mozilla::CA>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -1230,13 +1736,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Wed May  7 11:09:42 2014: C<Module> L<IO::Socket::SSL|IO::Socket::SSL>
+=head2 Fri May  9 16:53:21 2014: C<Module> L<File::Slurp|File::Slurp>
 
 =over 4
 
 =item *
 
-C<installed into: /nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5>
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
 
 =item *
 
@@ -1244,11 +1750,143 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 1.983>
+C<VERSION: 9999.19>
 
 =item *
 
 C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:53:23 2014: C<Module> L<Digest::HMAC|Digest::HMAC>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 16:54:56 2014: C<Module> L<Class::Singleton|Class::Singleton>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.4>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 17:03:02 2014: C<Module> L<XML::Parser|XML::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.41>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 17:03:12 2014: C<Module> L<XML::SAX::Expat|XML::SAX::Expat>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.51>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 17:03:25 2014: C<Module> L<XML::Simple|XML::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May  9 17:08:07 2014: C<Module> L<DBI|DBI>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.631>
+
+=item *
+
+C<EXE_FILES: dbiproxy dbiprof dbilogstrip>
 
 =back
 

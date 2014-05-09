@@ -1,0 +1,5 @@
+/local-lib-2.000011/../perl5/bin/shasum
+/local-lib-2.000011/../perl5/lib/perl5/x86_64-linux-gnu-thread-multi/Digest/SHA.pm
+/local-lib-2.000011/../perl5/lib/perl5/x86_64-linux-gnu-thread-multi/auto/Digest/SHA/SHA.so
+/local-lib-2.000011/../perl5/man/man1/shasum.1p
+/local-lib-2.000011/../perl5/man/man3/Digest::SHA.3pm

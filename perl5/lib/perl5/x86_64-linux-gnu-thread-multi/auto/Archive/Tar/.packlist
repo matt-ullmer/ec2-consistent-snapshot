@@ -1,0 +1,11 @@
+/local-lib-2.000011/../perl5/bin/ptar
+/local-lib-2.000011/../perl5/bin/ptardiff
+/local-lib-2.000011/../perl5/bin/ptargrep
+/local-lib-2.000011/../perl5/lib/perl5/Archive/Tar.pm
+/local-lib-2.000011/../perl5/lib/perl5/Archive/Tar/Constant.pm
+/local-lib-2.000011/../perl5/lib/perl5/Archive/Tar/File.pm
+/local-lib-2.000011/../perl5/man/man1/ptar.1p
+/local-lib-2.000011/../perl5/man/man1/ptardiff.1p
+/local-lib-2.000011/../perl5/man/man1/ptargrep.1p
+/local-lib-2.000011/../perl5/man/man3/Archive::Tar.3pm
+/local-lib-2.000011/../perl5/man/man3/Archive::Tar::File.3pm

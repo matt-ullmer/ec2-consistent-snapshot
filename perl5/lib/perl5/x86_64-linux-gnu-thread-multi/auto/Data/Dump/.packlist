@@ -1,7 +1,7 @@
-/nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5/Data/Dump.pm
-/nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5/Data/Dump/FilterContext.pm
-/nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5/Data/Dump/Filtered.pm
-/nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/lib/perl5/Data/Dump/Trace.pm
-/nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/man/man3/Data::Dump.3pm
-/nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/man/man3/Data::Dump::Filtered.3pm
-/nail/home/meu/ec2-consistent-snapshot/local-lib-2.000011/../perl5/man/man3/Data::Dump::Trace.3pm
+/local-lib-2.000011/../perl5/lib/perl5/Data/Dump.pm
+/local-lib-2.000011/../perl5/lib/perl5/Data/Dump/FilterContext.pm
+/local-lib-2.000011/../perl5/lib/perl5/Data/Dump/Filtered.pm
+/local-lib-2.000011/../perl5/lib/perl5/Data/Dump/Trace.pm
+/local-lib-2.000011/../perl5/man/man3/Data::Dump.3pm
+/local-lib-2.000011/../perl5/man/man3/Data::Dump::Filtered.3pm
+/local-lib-2.000011/../perl5/man/man3/Data::Dump::Trace.3pm
