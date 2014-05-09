@@ -1890,3 +1890,25 @@ C<EXE_FILES: dbiproxy dbiprof dbilogstrip>
 
 =back
 
+=head2 Fri May  9 17:34:10 2014: C<Module> L<Net::SSLeay|Net::SSLeay>
+
+=over 4
+
+=item *
+
+C<installed into: /local-lib-2.000011/../perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.58>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
